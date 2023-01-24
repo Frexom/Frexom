@@ -1,16 +1,13 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Frexom&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Frexom&show_icons=true&theme=tokyonight" style="width: 45%;"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frexom&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frexom&layout=compact&theme=tokyonight" style="width: 38%;"/>
 </a>
 
 
 <!--
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frexom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 **Frexom/Frexom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
