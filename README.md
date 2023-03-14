@@ -2,6 +2,8 @@
 
 - I’m currently working on [a discord bot](https://github.com/Frexom/KannaSucre)
 
+- I also did [a small game launcher for Linux](https://github.com/Frexom/PapasLauncher) (in terminal)
+
 - I’m currently learning **a lot of things** (some are listed below).
 
 <h3 align="left">Languages :</h3>
