@@ -1,14 +1,8 @@
-/!\ Temporarily empty! Work in progress... /!\
+<h3 align="center">Some random french programming science student!</h3>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+- I’m currently working on [a discord bot](https://github.com/Frexom/KannaSucre)
 
-- 🔭 I’m currently working on [a discord bot](https://github.com/Frexom/KannaSucre)
-
-- 🌱 I’m currently learning **a lot of things.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- I’m currently learning **a lot of things** (some are listed below).
 
 <h3 align="left">Languages :</h3>
 <p align="left">
@@ -29,6 +23,9 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="norefferer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" alt="lua" width=40 height=40/>
   </a>
   <a href="https://www.lua.org/" target="_blank" rel="norefferer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="lua" width=40 height=40/>
@@ -69,19 +66,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
-<!--
-
-
-**Frexom/Frexom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
